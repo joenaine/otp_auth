@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1055446836949",
+    "project_id": "otp-auth-acc77",
+    "storage_bucket": "otp-auth-acc77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055446836949:android:15ab91db91fa8f70ede45c",
+        "android_client_info": {
+          "package_name": "com.example.otp_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHiHAOkfDc1b7a_AqJ9-KDAzYrsEZpFt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
